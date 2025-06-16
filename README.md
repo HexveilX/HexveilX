@@ -1,15 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey+There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Hexveil</h1>
-<h3 align="center">Creative developer learning AI & building tools that mix design + code.</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on **TaleForge AI**
-- 🌱 I’m learning **Full Stack Web Development + AI Integration**
-- 💬 Ask me about anything dev/design/AI-related
-- 📫 Reach me at: `zyadalaa325@gmail.com`
-- 🕹️ Fun fact: I love mixing AI tools to build creative anime/short content!
+```yaml
+name: Hexveil
+current_work: TaleForge AI
+learning: Web Dev + AI Integration
+ask_me_about: dev, design, AI
+```
 
 ---
 
@@ -35,15 +35,15 @@
 
 ---
 
-### 🖼️ Personal Touch
+### 🔸 Personal Touch
 
 <p align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📢 Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/zezolz" target="_blank">
@@ -55,19 +55,23 @@
 
 ### 🔥 AI + Design Projects
 
-- 🧠 AI-powered Story Generator (TaleForge AI)
+- 🧀 AI-powered Story Generator (TaleForge AI)
 - 🎨 Logo & Design Tools with DALL·E / Leonardo
 - 🛠️ Frontend Projects with React + Firebase
 
 ---
 
-### 📈 Contribution Graph
+### 🔄 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph.svg">
-  <img alt="HexveilX's contribution graph" src="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph.svg">
-</picture>
+<details>
+  <summary>Click to show animated graph</summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution graph" src="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake.svg">
+  </picture>
+</details>
 
 ---
 
