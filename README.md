@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey+There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Hexveil</h1>
+<h1 align="center">I'm Hexveil👋</h1>
 
 ```yaml
 name: Hexveil
