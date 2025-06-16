@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is HexveilX</h1>
+<h1 align="left">Hi 👋! My name is Hexveil</h1>
 
 ###
 
