@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hexveil</h1>
 <h3 align="center">Creative developer learning AI & building tools that mix design + code.</h3>
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" />
+
 ---
 
 ### 📊 GitHub Stats
@@ -32,7 +34,7 @@
 - 🔭 I'm currently working on **TaleForge AI**
 - 🌱 I’m learning **Web Development + AI Integration**
 - 💬 Ask me about anything dev/design/AI-related
-- 📫 How to reach me: **zyadalaa325@gmail.com**
+- 📫 Reach me at: `zyadalaa325@gmail.com`
 - 🕹️ Fun fact: I love mixing AI tools to build creative anime/short content!
 
 ---
@@ -40,9 +42,6 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:zyadalaa325@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
-  </a>
   <a href="https://discord.com/users/zezolz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
   </a>
