@@ -1,58 +1,66 @@
-<h1 align="left">Hi 👋! My name is Hexveil</h1>
+<h1 align="center">Hi 👋, I'm Hexveil</h1>
+<h3 align="center">Creative developer learning AI & building tools that mix design + code.</h3>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HexveilX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=HexveilX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HexveilX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HexveilX&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=HexveilX&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HexveilX&layout=compact&langs_count=8&theme=onedark&hide_border=false" height="140" />
 </div>
 
-###
+---
 
-<h2 align="center">My languages</h2>
-
-###
+### 💻 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
 </div>
 
-###
+---
 
-<p align="left">Communication methods</p>
+### 👨‍💻 About Me
 
-###
+- 🔭 I'm currently working on **TaleForge AI**
+- 🌱 I’m learning **Web Development + AI Integration**
+- 💬 Ask me about anything dev/design/AI-related
+- 📫 How to reach me: **zyadalaa325@gmail.com**
+- 🕹️ Fun fact: I love mixing AI tools to build creative anime/short content!
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"  />
+---
 
-###
+### 📫 Connect With Me
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="73" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="73" height="50" alt="gmail logo"  />
-</div>
+<p align="left">
+  <a href="mailto:zyadalaa325@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+  </a>
+  <a href="https://discord.com/users/zezolz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 🕹️ Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph.svg">
+  <img alt="HexveilX's contribution graph" src="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HexveilX&style=flat-square&color=blue" alt="GitHub Profile Views" />
+  <img src="https://img.shields.io/github/followers/HexveilX?label=Followers&style=flat-square" />
+</p>
