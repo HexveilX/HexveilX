@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hexveil</h1>
 <h3 align="center">Creative developer learning AI & building tools that mix design + code.</h3>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" />
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I'm currently working on **TaleForge AI**
+- 🌱 I’m learning **Full Stack Web Development + AI Integration**
+- 💬 Ask me about anything dev/design/AI-related
+- 📫 Reach me at: `zyadalaa325@gmail.com`
+- 🕹️ Fun fact: I love mixing AI tools to build creative anime/short content!
+
+---
+
+### 🎯 Skills
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=flat)
 
 ---
 
@@ -15,41 +35,33 @@
 
 ---
 
-### 💻 Languages & Tools
+### 🖼️ Personal Touch
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on **TaleForge AI**
-- 🌱 I’m learning **Web Development + AI Integration**
-- 💬 Ask me about anything dev/design/AI-related
-- 📫 Reach me at: `zyadalaa325@gmail.com`
-- 🕹️ Fun fact: I love mixing AI tools to build creative anime/short content!
+<p align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/zezolz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+    <img src="https://img.shields.io/badge/Discord-Zezolz-5865F2?logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🕹️ Contribution Graph
+### 🔥 AI + Design Projects
+
+- 🧠 AI-powered Story Generator (TaleForge AI)
+- 🎨 Logo & Design Tools with DALL·E / Leonardo
+- 🛠️ Frontend Projects with React + Firebase
+
+---
+
+### 📈 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/pacman-contribution-graph-dark.svg">
