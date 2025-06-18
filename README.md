@@ -61,9 +61,17 @@ ask_me_about: dev, design, AI
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🔄 Contribution Snake
 
-![snake gif](https://github.com/HexveilX/HexveilX/blob/output/github-contribution-grid-snake.svg)
+<details>
+  <summary>Click to show animated graph</summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution graph" src="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake.svg">
+  </picture>
+</details>
 
 ---
 
@@ -74,29 +82,35 @@ ask_me_about: dev, design, AI
 
 ---
 
-### 🛠️ Snake Game GitHub Action
+### 🧞‍♂️ GitHub Actions Snake.yml
 
-```yml
-name: Generate snake animation
+```yaml
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # كل يوم
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout 🕎️
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake 🐍
+        uses: Platane/snk@v3
         with:
           github_user_name: HexveilX
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push snake animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: ./output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
