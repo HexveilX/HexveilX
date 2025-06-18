@@ -79,3 +79,38 @@ ask_me_about: dev, design, AI
   <img src="https://komarev.com/ghpvc/?username=HexveilX&style=flat-square&color=blue" alt="GitHub Profile Views" />
   <img src="https://img.shields.io/github/followers/HexveilX?label=Followers&style=flat-square" />
 </p>
+
+---
+
+### 🧞‍♂️ GitHub Actions Snake.yml
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # كل يوم
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🕎️
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake 🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HexveilX
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: ./output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
