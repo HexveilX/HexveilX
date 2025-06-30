@@ -5,7 +5,7 @@
 <h1 align="center">I'm Hexveil👋</h1>
 
 ```yaml
-name: Hexveil
+name: ZYAD
 current_work: TaleForge AI
 learning: Web Dev + AI Integration
 ask_me_about: dev, design, AI
