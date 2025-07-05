@@ -1,49 +1,79 @@
+
+<!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey+There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center">I'm Hexveil👋</h1>
+<h1 align="center"><samp>Hi <img src="https://raw.githubusercontent.com/MusaabK99/MusaabK99/main/assets/hello.gif" width="30" />, I'm <a href="#" target="_blank">Hexveil</a></samp></h1>
+<h3 align="center"><samp>🧠 A Frontend Dev building creative + AI-powered tools</samp></h3>
+
+---
+
+### 🧾 About Me
 
 ```yaml
 name: ZYAD
 current_work: TaleForge AI
 learning: Web Dev + AI Integration
-ask_me_about: dev, design, AI
+ask_me_about: frontend, design, AI
 ```
+
+- 🚀 Always exploring new tech & trends  
+- 🎨 Building creative tools using AI (DALL·E, Leonardo)  
+- 🔬 Currently deep-diving into Firebase, React, and UI Design
 
 ---
 
-### 🎯 Skills
+### 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=flat)
+<table align="center">
+<tr>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=typescript" width="65"/><br>TypeScript
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="65"/><br>Next.js
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind CSS
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=figma" width="65"/><br>Figma
+  </td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HexveilX&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=HexveilX&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HexveilX&layout=compact&langs_count=8&theme=onedark&hide_border=false" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HexveilX&show_icons=true&count_private=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=HexveilX&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HexveilX&layout=compact&theme=radical" height="140" />
 </div>
 
 ---
 
-### 🔸 Personal Touch
+### 🧠 Projects
 
-<p align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3OWx3ejRrYzFocnFpaDJxZ2dmOXd4endobGhnOGd5cmxleGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
-</p>
+- 🔥 TaleForge AI – Story Generator powered by OpenAI & Firebase  
+- 🧬 AI Design Lab – Generate logos, icons, banners with DALL·E  
+- 🌌 TaskFlow – Stylish productivity tool with animations and Firestore  
+- 🧪 More to come...
 
 ---
 
-### 📢 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/zezolz" target="_blank">
@@ -53,19 +83,10 @@ ask_me_about: dev, design, AI
 
 ---
 
-### 🔥 AI + Design Projects
-
-- 🧀 AI-powered Story Generator (TaleForge AI)
-- 🎨 Logo & Design Tools with DALL·E / Leonardo
-- 🛠️ Frontend Projects with React + Firebase
-
----
-
-### 🔄 Contribution Snake
+### 🐍 GitHub Contribution Snake
 
 <details>
-  <summary>Click to show animated graph</summary>
-
+  <summary>Click to show animated snake</summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HexveilX/HexveilX/output/github-contribution-grid-snake.svg">
@@ -79,38 +100,3 @@ ask_me_about: dev, design, AI
   <img src="https://komarev.com/ghpvc/?username=HexveilX&style=flat-square&color=blue" alt="GitHub Profile Views" />
   <img src="https://img.shields.io/github/followers/HexveilX?label=Followers&style=flat-square" />
 </p>
-
----
-
-### 🧞‍♂️ GitHub Actions Snake.yml
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # كل يوم
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout 🕎️
-        uses: actions/checkout@v3
-
-      - name: Generate GitHub Contribution Snake 🐍
-        uses: Platane/snk@v3
-        with:
-          github_user_name: HexveilX
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
-            ./output/github-contribution-grid-snake-dark.svg
-
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: ./output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
